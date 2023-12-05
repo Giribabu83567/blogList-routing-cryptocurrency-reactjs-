@@ -1,0 +1,23 @@
+.blog-item-container{
+    text-decoration: none;
+}
+.blog-item-details{
+    margin: 0px 30px;
+}
+.author-image{
+    margin-right: 10px;
+}
+.react-image{
+    width: 400px;
+    height: 200px;
+    margin: 20px 0px;
+}
+.blog-content{
+    width: 52%;
+    text-align: center;
+}
+.author-image{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+  }
